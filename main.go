@@ -17,4 +17,5 @@ func main() {
 	r.Run(":80")
 	fmt.Println("hello git1")
 	fmt.Println("版本2")
+	fmt.Println("test分支，合并了master分支也可以看到")
 }
