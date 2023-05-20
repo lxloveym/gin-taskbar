@@ -15,5 +15,4 @@ func main() {
 	routes.ReadyDo(r)
 	//访问端口设置
 	r.Run(":80")
-	fmt.Println("liangxin")
 }
